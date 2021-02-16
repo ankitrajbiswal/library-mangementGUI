@@ -122,7 +122,7 @@ public static void main(String args[])
 		int option = JOptionPane.showConfirmDialog(null, message, "Login", JOptionPane.OK_CANCEL_OPTION);
 		if (option == JOptionPane.OK_OPTION) 
 		{
-		    if (username.getText().equals("ankitrudra") && password.getText().equals("ankit@sf123"))
+		    if (username.getText().equals("ankitrudra") && password.getText().equals("ankitrudra"))
 		    {
 		    	JOptionPane.showMessageDialog(null, "LOGIN SUCCESSFUL");
 		    	 info();
