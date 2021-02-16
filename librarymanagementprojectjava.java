@@ -1,5 +1,5 @@
 // Library Management System
-// Ankit Rajdheer Biswal (ankitrudra2001@gmail.com)
+// Ankit Raj Biswal (ankitrudra2001@gmail.com)
 
 import javax.swing.*;
 import java.time.LocalDate;
